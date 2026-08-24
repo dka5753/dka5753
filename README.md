@@ -67,6 +67,9 @@ Java를 공부하며 탄탄한 기본기를 쌓고 있습니다.
 <a href="https://github.com/dka5753">
   <img src="https://img.shields.io/badge/GitHub-dka5753-A78BFA?style=for-the-badge&logo=github&logoColor=18181B" alt="GitHub" />
 </a>
+<a href="https://dka5753.tistory.com">
+  <img src="https://img.shields.io/badge/Tistory-Tech%20Blog-7C3AED?style=for-the-badge&logo=tistory&logoColor=white" alt="Tistory Blog" />
+</a>
 
 <br /><br />
 
